@@ -1,88 +1,26 @@
-## Hi There, I'm <a href="https://ankitgoyal0301.github.io/My-Portfolio/">Ankit Goyal</a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=ankitgoyal0301&color=blue alt=ankitgoyal0301/></p>
-
-<p>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitgoyal0301&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33" alt="Ankit's github stats"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitgoyal0301&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Ankit's github stats"/>
-</p>
+<h1 align="center">Hi 👋, I'm Vignesh Saminathan</h1>
 
 ## About Me
 
-- 🌱 Interested in Machine Learning, Deep Learning and BlockChain.
+- 🌱 Interested in Machine Learning, Deep Learning, BlockChain and various Tech.
 
-- ⚡ Competitive Programming Enthusiast
+- ⚡ Creative Creator
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: I love writing on platforms like Quora.
+- ⚡ Fun fact: I love Reading and Going to the gym.
 
 <br />
 
-<!--
-**ankitgoyal0301/ankitgoyal0301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="center">👋 Hello there! I'm a passionate and freshly graduated developer with a keen interest in the exciting realms of Artificial Intelligence (AI), Machine Learning (ML), and cutting-edge technologies. My journey in the world of programming began with a curiosity that quickly evolved into a deep-seated love for crafting innovative solutions. 🎓 Armed with a degree in [Your Degree], I have honed my skills in software development and am ready to embark on a thrilling career at the intersection of technology and intelligence. Throughout my academic journey, I immersed myself in diverse projects that not only fortified my programming skills but also fueled my fascination for the transformative power of AI and ML. 💡 My enthusiasm extends beyond the theoretical to the practical application of these technologies. I have hands-on experience in developing and implementing AI/ML algorithms, leveraging frameworks such as TensorFlow and PyTorch. The prospect of creating intelligent systems that can adapt, learn, and make informed decisions fascinates me, and I am eager to contribute to the forefront of technological advancements. 🚀 I thrive in dynamic environments and am always eager to embrace new challenges. My commitment to continuous learning ensures that I stay abreast of the latest advancements in technology, be it in the fields of natural language processing, computer vision, or data science. 🌐 As a tech enthusiast, I am not only driven by the desire to solve complex problems but also by the potential to make a positive impact on the world through technology. I am excited about collaborating with like-minded professionals, bringing creativity and innovation to every project I undertake. 📚 Beyond coding, you might find me exploring the latest tech blogs, attending meetups, or participating in hackathons. I believe in the power of collaboration and am always eager to connect with fellow developers, researchers, and tech enthusiasts. Let's shape the future together through code and creativity! 🚀✨</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Ever since I was in high school, software development has always fascinated me. Being able to get the computer to do whatever I wanted, just by typing in these funny little symbols, limited only by my own imagination and ingenuity.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-This passion carried me through my education at **Punjab Engineering College(PEC), Chandigarh**. Getting into a reputed college like PEC provided an excellent platform for developing the right technical skills and presented me with an abundance of opportunities. Along the way, my love and interest in technology also deepened. I got the chance to realize my current potential and expand the horizon of my skills, pushing the limits farther.
-
-I learned C++, tearing through many online tutorials I could find on anything related to software development. I was insatiable. I studied new languages like Python, got to learn Data structures & algorithms, and pursuing my interest for mathematics, I dived deeper into the field of Machine Learning and Deep Learning, all with pretty much the same fascination that drove me as a kid. With the guidance of our faculty and seniors, I got to work in Blockchain technology, which taught me that blockchain technology has the power to bring revolution in the world. It was here that I learned truly how much there was yet to learn.
-
-I have interned for 6 months at **Goldman Sachs**, which was a great learning experience, as I got to learn alot of new stuff, how industry projects work, how projects are deployed, importance of testing and agile software development technique.
-
-My interests include Competitive Programming which taught me patience and improved my Logical thinking and Problem-Solving skills to a great extent. My greatest achievement in Competitive programming has been a **Global Rank - 14** among 4000+ participants in a monthly 3-hour coding contest at Codechef. Also, I love Writing on Quora.
-
-Being a Computer science Student with **9.65 CGPA**, I am also an **PEC ACM Secretary** and Active Executive Body Member at PEC ACM Student Chapter, and **President** at Codechef PEC Chapter, which certainly made me appreciate to work as a team towards the development of an organization or society.
-
-There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful.
-
-## Specialties: 
- ### **Languages:** 
-
-<img align="left" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="PYTHON" width="35x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="JAVA" width="35x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<br>
-<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
-### **Technologies:**
 
-- **Deep Learning** - Keras, OpenCv
-- **Machine Learning** - ScikitLearn
-- **BlockChain** - Ethereum, Smart Contracts, Solidity 
-
-<hr>
-
-## 📫 How to reach me: 
-
-**💬 Ask me about anything, I'll be happy to help!** <br>
-**💬 My inbox is always open, Contact me**
-
-<a href="https://www.linkedin.com/in/ankit-goyal-07017a182" target="_blank">
-   <img align="left" alt="Ankit Goyal | Linkedin" width="24px" src="https://github.com/ankitgoyal0301/ankitgoyal0301/blob/master/Images/Linkedin.svg" />
-  </a>
-<a href="mailto:goyalankit3129@gmail.com" target="_blank">
-    <img align="left" alt="Ankit Goyal | Gmail" width="26px" src="https://github.com/ankitgoyal0301/ankitgoyal0301/blob/master/Images/Gmail.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100026461058569" target="_blank">
-   <img align="left" alt="Ankit Goyal | Facebook" width="24px" src="https://github.com/ankitgoyal0301/ankitgoyal0301/blob/master/Images/Facebook.png" />
-  </a>
-<a href="https://www.quora.com/profile/Ankit-Goyal-233" target="_blank">
-    <img align="left" alt="Ankit Goyal | Quora" width="26px" src="https://github.com/ankitgoyal0301/ankitgoyal0301/blob/master/Images/Quora.png" />
-</a>
-
-<br>
-<br>
-
-That's all from me, Thank you! :wink:
