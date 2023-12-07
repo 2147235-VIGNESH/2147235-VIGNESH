@@ -1,31 +1,27 @@
 <h1 align="center">Hi 👋, I'm Vignesh Saminathan</h1>
 
-## About Me
+<h3 align="center"> Hello there! I'm a passionate and freshly graduated developer with a keen interest in the exciting realms of Artificial Intelligence (AI), Machine Learning (ML), and cutting-edge technologies. 
+    🎓 Armed with degrees in BCA and MCA, I have honed my skills in software development and am ready to embark on a thrilling career at the intersection of technology and intelligence. I am excited about collaborating with like-minded professionals, bringing creativity and innovation to every project I undertake.🚀✨</h3>
 
-- 🌱 Interested in Machine Learning, Deep Learning, BlockChain and various Tech.
+## Summary
 
-- ⚡ Creative Creator
+- 🌱 Interested in Tech like  Machine Learning, Deep Learning, BlockChain and various Tech.
 
-- 😄 Pronouns: He/Him
+- ⚡ Creative Creator.
 
-- ⚡ Fun fact: I love Reading and Going to the gym.
+- 😄 Pronouns: He/Him.
+
+- ⚡ Fun fact: I love Reading 📚 and Going to the gym ❚█══█❚.
 
 <br />
 
 
-<h3 align="center">👋 Hello there! I'm a passionate and freshly graduated developer with a keen interest in the exciting realms of Artificial Intelligence (AI), Machine Learning (ML), and cutting-edge technologies. My journey in the world of programming began with a curiosity that quickly evolved into a deep-seated love for crafting innovative solutions. 🎓 Armed with a degree in [Your Degree], I have honed my skills in software development and am ready to embark on a thrilling career at the intersection of technology and intelligence. Throughout my academic journey, I immersed myself in diverse projects that not only fortified my programming skills but also fueled my fascination for the transformative power of AI and ML. 💡 My enthusiasm extends beyond the theoretical to the practical application of these technologies. I have hands-on experience in developing and implementing AI/ML algorithms, leveraging frameworks such as TensorFlow and PyTorch. The prospect of creating intelligent systems that can adapt, learn, and make informed decisions fascinates me, and I am eager to contribute to the forefront of technological advancements. 🚀 I thrive in dynamic environments and am always eager to embrace new challenges. My commitment to continuous learning ensures that I stay abreast of the latest advancements in technology, be it in the fields of natural language processing, computer vision, or data science. 🌐 As a tech enthusiast, I am not only driven by the desire to solve complex problems but also by the potential to make a positive impact on the world through technology. I am excited about collaborating with like-minded professionals, bringing creativity and innovation to every project I undertake. 📚 Beyond coding, you might find me exploring the latest tech blogs, attending meetups, or participating in hackathons. I believe in the power of collaboration and am always eager to connect with fellow developers, researchers, and tech enthusiasts. Let's shape the future together through code and creativity! 🚀✨</h3>
-
 <!-- Badges -->
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Being_Goswami)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/thekaushikgoswami) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/thekaushikgoswami)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14279011/thekaushikgoswami) <br>
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/TheKaushikGoswami)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/TheKaushik01)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/rwu8m7m34mit13j931l5618p5)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheKaushikGoswami)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thekaushikgoswami)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vigneshsaminathan.me/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2147235-VIGNESH)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshsaminathan/)
+
 
 ### 🌟 A little more about me...
 
@@ -35,21 +31,20 @@ from world import love
 class HumanBeing:
 
     def __init__(self):
-        self.name = "Kaushik Goswami"
+        self.name = "Vignesh Saminathan"
         self.pronouns = ["He", "Him"]
         self.role = "Student & Developer"
-        self.code = ["Python", "Javascript", "CSS", "HTML"]
-        self.tools = ["VSCode", "Git", "GitHub"]
-        self.askMeAbout = ["tech", "linux", "web development", "discord", "anime"]
+        self.code = ["Python", "Javascript", "CSS", "HTML", "MANY MORE.."]
+        self.tools = ["VSCode", "GitHub", ]
+        self.askMeAbout = ["tech", "AI/ML", "web development", "GYM", "Books", "Photography", "Videography", "MANY MORE!" ]
         self.technologies = {
-            "frontEnd": ["HTML", "CSS", "JavaScript"],
+            "frontEnd": ["HTML", "CSS", "JavaScript", "React"],
             "backEnd": ["Python", "Node.js"],
             "databases": ["MongoDB", "MySQL"],
-            "cloud": ["Heroku", "AWS"],
-            "misc": ["Ubuntu", "Raspberry Pi"]
+            "cloud": ["AWS", "Google Cloud"],
         }
-        self.currentFocus = "Learning C/C++ and exploring AI 🚀"
-        self.funFact = "🌼|| Coding is my meditation, and bugs are my puzzles! ||🌼"
+        self.currentFocus = "Learning Data Science and exploring AI 🚀"
+        self.funFact = "🌼|| I always love learning and growing ! ||🌼"
 
     def say_hi(self):
         print("Thanks for stopping by! Let's create something awesome together!")
@@ -64,76 +59,6 @@ love.everyone()
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/distributor-logo-nixos.svg" height="30" alt="nix logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/terminal.svg" height="30" alt="terminal logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/librewolf.svg" height="30" alt="librewolf logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/vscodium.svg" height="30" alt="vscodium logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/wayland.svg" height="30" alt="wayland logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/distributor-logo-linux.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/distributor-logo-android.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/github.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/distributor-logo-windows.svg" height="30" alt="windows logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/web-signal.svg" height="30" alt="signal logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/protonmail.svg" height="30" alt="protonmail logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/gitlab.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/gimp.svg" height="30" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/inkscape.svg" height="30" alt="inkscape logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/square/48/vim.svg" height="30" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/godot.svg" height="30" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/mpv.svg" height="30" alt="mpv logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/obs.svg" height="30" alt="obs logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/flatpak.svg" height="30" alt="flatpak logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/distributor-logo-openbsd.svg" height="30" alt="openbsd logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/distributor-logo-kali.svg" height="30" alt="kali logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/distributor-logo-alpine.svg" height="30" alt="alpine logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/docker.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/podman-desktop.svg" height="30" alt="podman logo"  />
-    <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/distributor-logo-archlinux.svg" height="30" alt="arch logo"  />
-    <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/audacity.svg" height="30" alt="audacity logo"  />
-    <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/vcvrack.svg" height="30" alt="vcv logo"  />
-    <img width="12" />
-    <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/web-bitbucket.svg" height="30" alt="bitbucket logo"  />
-    <img width="12" />
-    <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/distributor-logo-gnu.svg" height="30" alt="gnu logo"  />
-    <img width="12" />
-    <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/distributor-logo-ubuntu.svg" height="30" alt="ubuntu logo"  />
-    <img width="12" />
-    <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/web-mastodon.svg" height="30" alt="mastodon logo"  />
-    <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/qemu-launcher.svg" height="30" alt="qemu logo"  />
-    <img width="12" />
-  <img src="https://raw.githubusercontent.com/numixproject/numix-core/c9769b9022d227b445b318cb8d6c423de7cf0846/icons/circle/48/numix.svg" height="30" alt="numix logo"  />
-</div>
 
 ## Tech Stack 💻
 #### Languages
@@ -142,8 +67,6 @@ love.everyone()
 ![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
-![Lua](https://img.shields.io/badge/-Lua-000?style=for-the-badge&logo=lua)
 
 #### JS Framework/Library
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
@@ -160,17 +83,12 @@ love.everyone()
 ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
 
 #### Design/Visual Tools
-![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
-![Framer](https://img.shields.io/badge/-Framer-000?style=for-the-badge&logo=framer)
 ![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
-![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 #### Database/State
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![MobX](https://img.shields.io/badge/-MobX-000?style=for-the-badge&logo=mobx)
 
 #### Backend
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
@@ -178,23 +96,10 @@ love.everyone()
 ![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
 
 #### Web Hosting
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
-![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 
-#### CI/CD
-![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)
-![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
-![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins)
 
-#### Package Manager
-![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
-![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
-
-#### Version Control
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 
